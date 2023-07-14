@@ -1,6 +1,6 @@
 # chatApp
-reload project  - sbt compile
+# reload project  - sbt compile
 
-run project - sbt run 
+# run project - sbt run 
 
-db - conf/db
+# db - conf/db
